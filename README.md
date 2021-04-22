@@ -10,6 +10,6 @@ En un inicio se espera poder abordar la problematica sin tener en cuenta la pand
 - Realizar el wireframe que se mostrará
   - Tab de propuestas de candidatos
   - Porcentaje de votantes
-  - Botones para elegir el candidato
+  - Botones para elegir el candidato con los partidos de la cualisión (si es que hay) con el nombre del candidato
 - Realizar una propuesta de candado haciendo uso del INE
   - Se usaría un escaner que tomaría los datos directamente del código de barras en el carné.
