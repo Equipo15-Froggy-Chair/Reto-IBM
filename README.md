@@ -15,4 +15,6 @@ En un inicio se espera poder abordar la problematica sin tener en cuenta la pand
   - Se usaría un escaner que tomaría los datos directamente del código de barras en el carné.
 
 ## Visión a futuro:
-Despues de sacar el primer prototipo de votación electronica se espera poder mejorar la seguridad y transparencia al votar haciendo uso de el software de IBM "Watson" para poder aplicar un autenticador con recognición facial o dactilar.
+Despues de sacar el primer prototipo de votación electronica se espera poder mejorar la seguridad y transparencia al votar haciendo uso de el software de IBM "Watson" para poder aplicar un autenticador con recognición facial o dactilar. 
+
+Además, se espera poder hacer uso de Qiskit para mejorar los metodos de cifrado de datos, mejorando así la seguridad al realizar la votación.
