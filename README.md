@@ -7,6 +7,7 @@ Repositorio dedicado a resolver el reto propuesto por IBM para el HackMX 2021
 En un inicio se espera poder abordar la problematica sin tener en cuenta la pandemia causada por el Covid-19. Las ideas para empezar la realización del proyecto se muestran a continuación:
 
 - Hacer un API que se conecte con la página/app que se mostrará en el punto de votación.
+  - Se usará React.JS  y se conectará con el front-end escogido. 
 - Realizar el wireframe que se mostrará
   - Tab de propuestas de candidatos
   - Porcentaje de votantes con respecto a la población que puede votar
