@@ -16,3 +16,5 @@ En un inicio se espera poder abordar la problematica sin tener en cuenta la pand
 
 ## Visión a futuro:
 Despues de sacar el primer prototipo de votación electronica se espera poder mejorar la seguridad y transparencia al votar haciendo uso de el software de IBM "Watson" para poder aplicar un autenticador con recognición facial o dactilar.
+
+Más adelante se puede mejorar la seguridad de cada voto con ayuda de la computación cuantica de IBM.
