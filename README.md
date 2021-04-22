@@ -12,3 +12,4 @@ En un inicio se espera poder abordar la problematica sin tener en cuenta la pand
   - Porcentaje de votantes
   - Botones para elegir el candidato
 - Realizar una propuesta de candado haciendo uso del INE
+  - Se usaría un escaner que tomaría los datos directamente del código de barras en el carné.
